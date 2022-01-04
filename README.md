@@ -1,5 +1,5 @@
 # Data-Analytics-Portfolio
-This repository contains projects and visualizations created from the Data Science & Analytics program with Cal State University Long Beach.
+This repository contains projects and visualizations created from the Data Science & Analytics program with CSULB
 ## SQL
 
 
